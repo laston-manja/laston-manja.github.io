@@ -1,0 +1,7 @@
+---
+title: "CV"
+---
+
+My current CV is available below.
+
+[Download CV](files/Laston_Manja_CV.pdf){.btn .btn-primary}

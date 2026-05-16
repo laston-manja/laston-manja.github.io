@@ -1,0 +1,21 @@
+---
+title: "Research"
+---
+
+## Research in progress
+
+### Colonizer Identity and Economic Development: Evidence from the “Scramble for Africa”
+
+**with [Thomas Lloyd](https://thomaslloyd.me)**
+
+Abstract: This paper examines the long-run economic impact of differential European colonial rule in Africa, by exploiting differences arising from the arbitrary borders established during the Scramble for Africa (1876-1912). Using a regression discontinuity design along the full set of British-French colonial borders in West and Central Africa, we explore the impact of colonizer identity on local measures of economic development. We find that areas formerly under British rule exhibit higher nighttime light intensity (2-6%), which translates into substantially higher local GDP per capita (USD 1,620-2,220). At the individual level, these areas display higher educational attainment, lower unemployment rates, and improved public good provision. We explore mechanisms and find sharp institutional discontinuities at colonial borders. Areas formerly under British rule display lower perceived corruption in formal government institutions, particularly local government, and higher trust in parliaments. Perceived judicial corruption is lower, while agreement that court decisions must be obeyed is stronger, in line with differences in legal origin. However, traditional leaders show higher perceived corruption on the British side, consistent with indirect rule empowering traditional authorities as intermediaries. Colonial legacies also shape nation-building. British areas show weaker national identity and lower colonial language use, alongside lower perception of unfair treatment of one's ethnic group. These findings indicate that differential colonial governance strategies created persistent institutional divergences that continue to shape economic development in contemporary Africa.
+
+### School Finance, Administrative Capacity, and Resilience in Malawi
+
+**Third-year paper**
+
+This project studies how school financing arrangements affect education outcomes and school resilience in Malawi. The project focuses on the conversion of Community Day Secondary Schools from non-cost centers to cost centers, a reform that changed how schools receive, manage, and report public funds. I examine whether the reform changed school outcomes, financial management, and schools’ ability to respond to shocks.
+
+## Earlier research
+
+For my mostly descriptive pre-Ph.D. research, please see my [ORCID profile](https://orcid.org/0000-0002-0446-7674).
